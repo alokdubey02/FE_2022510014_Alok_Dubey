@@ -12,3 +12,4 @@ int main(){
     int result=solve(gas,cost);
     return result;
 }
+
